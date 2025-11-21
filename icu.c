@@ -6,7 +6,7 @@
  *
  * Description: Source file for the AVR ICU driver
  *
- * Author: Mohamed Tarek
+ * Author: mohamed elgendy
  *
  *******************************************************************************/
 
@@ -127,3 +127,4 @@ void ICU_deInit(void)
 	/* Reset the global pointer value */
 	g_callBackPtr = NULL_PTR;
 }
+
