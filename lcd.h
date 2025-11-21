@@ -2,7 +2,7 @@
  * lcd.h
  *
  *  Created on: Jun 28, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 
 #ifndef LCD_H_
@@ -107,3 +107,4 @@ void LCD_clearScreen(void);
 
 
 #endif /* LCD_H_ */
+
