@@ -2,7 +2,7 @@
  * led.c
  *
  *  Created on: May 16, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 
 #include "led.h"
@@ -146,5 +146,6 @@ void LED_toggle(LED_ID id)
         break;
     }
 }
+
 
 
