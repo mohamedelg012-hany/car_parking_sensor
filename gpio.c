@@ -2,7 +2,7 @@
  * gpio.c
  *
  *  Created on: Jun 28, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 
 
@@ -346,5 +346,6 @@ void GPIO_togglePin(uint8 port_num, uint8 pin_num)
             break;
     }
 }
+
 
 
