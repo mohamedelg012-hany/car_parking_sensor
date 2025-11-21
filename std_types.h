@@ -2,7 +2,7 @@
  * std_types.h
  *
  *  Created on: Jun 28, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 
 #ifndef STD_TYPES_H_
@@ -36,3 +36,4 @@ typedef double                float64;
 
 
 #endif /* STD_TYPES_H_ */
+
