@@ -2,7 +2,7 @@
  * lcd.c
  *
  *  Created on: Jun 29, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 
 
@@ -216,3 +216,4 @@ void LCD_clearScreen(void)
 {
 	LCD_sendCommand(LCD_CLEAR_COMMAND); /* Send clear display command */
 }
+
