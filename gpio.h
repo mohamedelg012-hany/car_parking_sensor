@@ -2,7 +2,7 @@
  * gpio.h
  *
  *  Created on: Jun 28, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 
 #ifndef GPIO_H_
@@ -97,3 +97,4 @@ void GPIO_togglePin(uint8 port_num, uint8 pin_num);
 
 
 #endif /* GPIO_H_ */
+
