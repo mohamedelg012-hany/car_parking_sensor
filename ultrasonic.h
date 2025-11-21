@@ -2,7 +2,7 @@
  * ultrasonic.h
  *
  *  Created on: Jun 26, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 
 #ifndef ULTRASONIC_H_
@@ -29,3 +29,4 @@ void Ultrasonic_edgeProcessing(void) ;
 
 
 #endif /* ULTRASONIC_H_ */
+
