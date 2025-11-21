@@ -6,7 +6,7 @@
  *
  * Description: Header file for the AVR ICU driver
  *
- * Author: Mohamed Tarek
+ * Author: mohamed elgendy
  *
  *******************************************************************************/
 
@@ -73,3 +73,4 @@ void ICU_clearTimerValue(void);
 void ICU_deInit(void);
 
 #endif /* ICU_H_ */
+
