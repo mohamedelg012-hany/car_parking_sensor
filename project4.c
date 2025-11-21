@@ -1,9 +1,9 @@
 
 /*
- * ultrasonic.h
+ * 
  *
  *  Created on: Jun 26, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 #include "lcd.h"
 #include "buzzer.h"
@@ -91,3 +91,4 @@ int main(void) {
         _delay_ms(200); // Small delay to stabilize sensor readings
     }
 }
+
