@@ -1,9 +1,9 @@
 
 /*
- * ultrasonic.h
+ * ultrasonic.c
  *
  *  Created on: Jun 26, 2025
- *      Author: mobilap
+ *      Author: mohamed elgendy
  */
 #include "ultrasonic.h"
 #include <util/delay.h>
@@ -60,3 +60,4 @@ void Ultrasonic_edgeProcessing(void)
 		edge_count = 0;
 	}
 }
+
